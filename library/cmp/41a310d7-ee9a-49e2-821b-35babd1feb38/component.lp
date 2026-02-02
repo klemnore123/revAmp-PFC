@@ -9,7 +9,7 @@
  (generated_by "")
  (category eaec5dd0-dbdb-4c39-8b0a-2b9ae5684cf7)
  (schematic_only false)
- (default_value "{{MPN}}")
+ (default_value "VS-KBPC610PBF")
  (prefix "BR")
  (signal 6362ada0-7098-425e-badd-5e78415e5ccb (name "A2") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
