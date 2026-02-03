@@ -1,3 +1,3 @@
 (librepcb_boards
- (board "boards/default/board.lp")
+ (board "boards/300v_pfc_preregulator/board.lp")
 )
