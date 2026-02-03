@@ -18,6 +18,6 @@ Quantity,Designators,Package,Value,MPN,Manufacturer
 1,R1,BPR58C47LK,,BPR58C47LK,KOA Speer
 2,"R11, R13",1W Axial Resistor,68kΩ,ROX1SJ68K,TE Connectivity
 1,R12,1W Axial Resistor,1kΩ,,
-1,SW1,TX2-12V,TX2-12V,,
+1,SW1,G2RL-1A-E-CV DC12,,G2RL-1A-E-CV DC12,Omron Electronics
 1,T1,BV301S12012,,BV301S12012,Zettler Magnetics
 1,VR1,TO-220,,L7812CV,STMicroelectronics
