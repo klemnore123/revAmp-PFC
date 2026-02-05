@@ -4,7 +4,7 @@
  (grid (interval 0.3175) (unit millimeters))
  (layers (inner 0))
  (thickness 1.6)
- (solder_resist blue)
+ (solder_resist green)
  (silkscreen white)
  (silkscreen_layers_top top_legend top_names)
  (silkscreen_layers_bot bot_legend bot_names)
